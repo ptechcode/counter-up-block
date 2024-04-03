@@ -1,0 +1,18 @@
+.wp-block-create-block-counter-up-block {
+	
+	font-size: 2.5rem;
+	display: flex;
+	flex-direction: column;
+	font-weight: 700;
+	gap: 0;
+
+	&>div.count {
+		font-size: inherit;
+		font-weight: inherit;
+	}	
+	
+	p {
+		font-weight: 400;
+	}
+	
+}
